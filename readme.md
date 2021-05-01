@@ -1,4 +1,9 @@
 ### Hi, I'm Spencer! 👋
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+
+I am a Senior @ Oregon State and I am Interested in Cloud Development, Mobile Application Development, designing usable and interactive user interfaces, and understanding how different people interact with changing technologies. I also enjoy gaming casually, investings in stocks, and learning new things!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencerbig&hide=SCSS&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerbig&show_icons=true&theme=cobalt&count_private=true)
 
