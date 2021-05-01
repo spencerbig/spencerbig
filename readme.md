@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Spencer! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerbig&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerbig&show_icons=true&theme=cobalt&count_private=true)
 
 
 <!--
